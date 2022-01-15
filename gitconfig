@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = simonepiccolo1987@gmail.com
+	name = Simone Piccolo
